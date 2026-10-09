@@ -21,3 +21,5 @@ Projet individuel, aucun groupe de formé.
 - Green → Game-Designer
 - Blue → Dev
 - Orange → Artist
+
+**Milestone**: Fin de la 2eme semaine, controle et de mario et camera finalisé
