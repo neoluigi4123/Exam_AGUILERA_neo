@@ -23,3 +23,5 @@ Projet individuel, aucun groupe de formé.
 - Orange → Artist
 
 **Milestone**: Fin de la 2eme semaine, controle et de mario et camera finalisé
+
+[Planification Trello](https://trello.com/b/Nk8ybNVJ/examaguileraneo)
